@@ -1,2 +1,2 @@
 # AOLDST
-Tugas AOL Data Structure
+AOL Data Structure
